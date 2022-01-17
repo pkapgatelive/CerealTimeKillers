@@ -1,4 +1,6 @@
-# CerealTimeKillers
+# GAMEEMO_Pappu
+
+
 
 ## Project description
 Deep learning model to predict emotional states based on EEG data. 
